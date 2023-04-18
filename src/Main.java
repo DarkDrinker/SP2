@@ -16,7 +16,7 @@ public class Main {
         fleet.addCar(car4);
         fleet.addCar(car5);
         fleet.addCar(car6);
-        
+
         System.out.println(fleet);
         System.out.println(fleet.getTotalRegistrationFeeForFleet());
 
